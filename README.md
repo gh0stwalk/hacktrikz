@@ -23,9 +23,7 @@ Welcome, to my lair, mortal. Where the lines between chaos and brilliance blur. 
 
 
 ## Connect 
-<a href="https://keybase.io/hackedapostle" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b1d31ddc-57ea-4905-a2c2-bafdd1f2fd52" alt="image" />
-</a>
+[![image](https://github.com/user-attachments/assets/b1d31ddc-57ea-4905-a2c2-bafdd1f2fd52)](https://keybase.io/hackedapostle "Open Keybase in a new tab")
 
 ## 😏 Fun Fact
 
