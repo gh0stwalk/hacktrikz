@@ -22,6 +22,10 @@ Welcome, to my lair, mortal. Where the lines between chaos and brilliance blur. 
 - **[Depleter](https://github.com/hackedapostle/depleter)**: Wipe Everything....
 
 ---
+## Connect 
+🔑
+[Keybase](https://keybase.io/hackedapostle)
+---
 
 ## 😏 Fun Fact
 
