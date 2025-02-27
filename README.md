@@ -21,10 +21,6 @@ Welcome, to my lair, mortal. Where the lines between chaos and brilliance blur. 
 
 - **[Depleter](https://github.com/hackedapostle/depleter)**: Wipe Everything....
 
-
-## Connect 
-[![image](https://github.com/user-attachments/assets/b1d31ddc-57ea-4905-a2c2-bafdd1f2fd52)](https://keybase.io/hackedapostle "Open Keybase in a new tab")
-
 ## 😏 Fun Fact
 
 I’m not here to make your life easier… I’m here to make your code better. So if you're brave enough, let's collab, break some things, and rebuild them better. Because *perfection is overrated*.
