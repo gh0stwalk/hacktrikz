@@ -10,7 +10,7 @@ Welcome, to my lair, mortal. Where the lines between chaos and brilliance blur. 
 [![Docker](https://img.shields.io/badge/Docker-%20#2496ed?style=flat&logo=docker&logoColor=white)](https://github.com/hackedapostle)
 [![Linux](https://img.shields.io/badge/Linux-%20#2496ed?style=flat&logo=linux&logoColor=white)](https://github.com/hackedapostle)
 
-- **DevOps**: Docker, Kubernetes, Ansible (for when you want to make servers do your bidding)
+- **Development**: Docker, Kubernetes, WebApps (for when you want to make servers do your bidding)
 - **Databases**: MongoDB, MySQL (I’ve broken my share of SQL queries. Don’t @ me.)
 - **Version Control**: Git (duh) – the only thing I can trust more than my own judgment
 - **Other**: Networking, Pen Testing, API stuff, exploits, and occasionally causing some trouble.
